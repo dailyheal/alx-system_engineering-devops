@@ -1,2 +1,2 @@
 #!/bin/bash <br/>
-echo $HOME
+cd

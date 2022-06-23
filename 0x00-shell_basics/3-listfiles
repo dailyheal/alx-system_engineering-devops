@@ -1,2 +1,2 @@
 #!/bin/bash <br/>
-ls -l
+ls -a
